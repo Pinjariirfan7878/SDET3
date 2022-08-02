@@ -1,7 +1,10 @@
 package git1;
 
+import org.testng.annotations.Test;
+
 public class Git_1 {
-	public static void main(String[] args) {
+	@Test
+	public void run() {
 		
 		
 		System.out.println(" GIt_1");
